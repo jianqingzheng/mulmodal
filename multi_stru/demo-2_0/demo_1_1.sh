@@ -1,0 +1,1 @@
+nohup /home/jachin/anaconda3/envs/multi_stru/bin/python training_demo_v4_shanghai.py > demo11_out.log &
